@@ -1,3 +1,3 @@
-module github.com/dennisferdian9/coba-golang.git
+module github.com/dennisferdian9/coba-golang
 
 go 1.20
